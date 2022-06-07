@@ -4,7 +4,7 @@ This backend exercise involves building a Node.js service that will serve a REST
 
 # FixedIncomeOffer
 
-A FixedIncomeOffer is an asset that is currently being sold can be bought by some **Buyer**
+A FixedIncomeOffer is an asset that is currently being sold and can be bought by some **Buyer**
 
 ```ts
 interface FixedIncomeOffer {
