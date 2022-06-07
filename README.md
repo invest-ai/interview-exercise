@@ -12,6 +12,7 @@ interface FixedIncomeOffer {
 	availableQuantity: number; // e.g. 100
 	unitPrice: number; // e.g. 1000
 	yieldRate: number; // e.g. 0.10 (10% yearly)
+	issuer: string; // e.g. itau
 }
 ```
 
